@@ -1,5 +1,6 @@
----
-💊 Smart Healthcare Assistant with Sentiment Analysis & Gemini AI
+
+```
+# Smart Healthcare Assistant with Sentiment Analysis & Gemini AI
 
 A powerful, full-stack AI-based healthcare assistant that integrates:
 
